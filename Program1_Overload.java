@@ -18,7 +18,7 @@ class overloading
 public class Program1_Overload {
 
 	public static void main(String[] args) {
-		/*Write two methods with the same name but diferent number of parameters of same type
+		/*Write two methods with the same name but different number of parameters of same type
 		and call the methods from main method*/
    overloading over=new overloading();
    over.area(2);
