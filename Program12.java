@@ -1,5 +1,5 @@
 package exception_pack;
-
+//Write a program to generate IOException
 
 	import java.util.*;  
 	import java.util.regex.Pattern;  
@@ -7,7 +7,7 @@ package exception_pack;
 	
 	    public static void main(String args[]){       
 	              //Create Scanner object  
-	            Scanner scan = new Scanner("Names:KALYANI;RAMA;RAMAKALYANI");  
+	            Scanner scan = new Scanner("Names:KALYANI RAMA RAMAKALYANI");  
 	            //Declare the delimiter  
 	            scan.useDelimiter(";");  
 	            /*Initialize the String pattern which signifies that the String 
