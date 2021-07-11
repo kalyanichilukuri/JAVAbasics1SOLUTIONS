@@ -72,6 +72,8 @@ System.out.println("size of the array list is"+animals.size());
  // Remove all elements of the ArrayLis
 namesList.clear();
 System.out.println("elemetns are"+namesList);
+
+
 /* removing an element using foreach 
  * for (String s: namesList) {
          System.out.println(s);
